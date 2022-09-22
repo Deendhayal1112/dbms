@@ -50,7 +50,8 @@ exp9
 
 
 exp10
-[exp10](https://user-images.githubusercontent.com/113018345/191743623-94e564aa-fd25-4fb4-9fa0-26946c0b1b4a.png)
+![exp10](https://user-images.githubusercontent.com/113018329/191779206-a8fcdbec-d75c-425a-9de6-3535ebf5dba1.png)
+
 
 
 
