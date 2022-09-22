@@ -49,16 +49,16 @@ e![exp9](https://user-images.githubusercontent.com/113018345/191743515-4f0b3de1-
 
 exp10
 [exp10](https://user-images.githubusercontent.com/113018345/191743623-94e564aa-fd25-4fb4-9fa0-26946c0b1b4a.png)
+
+
+
 exp11
-
-
-
 ![exp11](https://user-images.githubusercontent.com/113018345/191743773-0b515fad-e6ea-4503-ab36-0a60bc112446.png)
 ![ex11](https://user-images.githubusercontent.com/113018345/191744345-fbfad698-26a2-48cb-bce9-ba96585f1a6a.png)
+
+
+
 exp12
-
-
-
 ![exp12](https://user-images.githubusercontent.com/113018345/191743834-4295aca1-47cb-4ba5-adef-e8e09af334e7.png)
 ![ex 12](https://user-images.githubusercontent.com/113018345/191744442-b4e3a6a3-93c6-4967-a505-f8374263d84d.png)
 
